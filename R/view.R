@@ -4,7 +4,7 @@
 #' @aliases view
 #' @keywords view
 
-#' @description You can use this function for loading any data.frame, data_frame, tbl_df, matrix, vector objects into your system-default spreadsheet software (e.g., Excel). This function has been inspired by \link[BrailleR]{DataViewer} and has implemented Hadley Wickham's \link[readr]{write_csv} instead of the default \link[utils]{write.csv} for a better performance.
+#' @description You can use this function for loading any data.frame, data_frame, tbl_df, matrix, vector objects into your system-default spreadsheet software (e.g., Excel). This function has been inspired by \code{\link[BrailleR]{DataViewer}} and has implemented Hadley Wickham's \code{\link[readr]{write_csv}} instead of the default \code{\link[utils]{write.csv}} for a better performance.
 
 #' @export view
 #' @param x An object of class data.frame, matrix, or vector.
@@ -13,7 +13,7 @@
 #' @details
 #' See example below.
 
-#' @return Data object opened in a preferrable spreadsheet application window.
+#' @return Data object opened in a preferable spreadsheet application window.
 
 #' @examples
 

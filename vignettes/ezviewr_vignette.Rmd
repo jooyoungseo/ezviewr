@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 # ezviewr
 
-The goal of ezviewr is to provide R users with convenient function to open their data objects with their preferrable spreadsheet application window (e.g., Excel).
+The goal of ezviewr is to provide R users with convenient function to open their data objects with their preferable spreadsheet application window (e.g., Excel).
 
 ## Installation
 

@@ -4,9 +4,9 @@
 \name{ezviewr-package}
 \alias{ezviewr}
 \alias{ezviewr-package}
-\title{ezviewr: View Tidy Data in Preferrable Spreadsheet}
+\title{ezviewr: View Tidy Data in Preferable Spreadsheet}
 \description{
-Timely load your tidy-formatted data from R into a preferrable spreadsheet application window.
+Timely load your tidy-formatted data from R into a preferable spreadsheet application window.
 }
 \seealso{
 Useful links:

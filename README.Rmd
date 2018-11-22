@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/jooyoungseo/ezviewr?branch=master&svg=true)](https://ci.appveyor.com/project/jooyoungseo/ezviewr)
 [![Codecov test coverage](https://codecov.io/gh/jooyoungseo/ezviewr/branch/master/graph/badge.svg)](https://codecov.io/gh/jooyoungseo/ezviewr?branch=master)                                                                                                                               
                      
-The goal of ezviewr is to provide R users with convenient function to open their data objects with their preferrable spreadsheet application window (e.g., Excel).
+The goal of ezviewr is to provide R users with convenient function to open their data objects with their preferable spreadsheet application window (e.g., Excel).
 
 ## Installation
 

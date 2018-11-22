@@ -11,7 +11,7 @@ status](https://ci.appveyor.com/api/projects/status/github/jooyoungseo/ezviewr?b
 coverage](https://codecov.io/gh/jooyoungseo/ezviewr/branch/master/graph/badge.svg)](https://codecov.io/gh/jooyoungseo/ezviewr?branch=master)
 
 The goal of ezviewr is to provide R users with convenient function to
-open their data objects with their preferrable spreadsheet application
+open their data objects with their preferable spreadsheet application
 window (e.g., Excel).
 
 ## Installation

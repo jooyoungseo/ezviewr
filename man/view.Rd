@@ -12,10 +12,10 @@ view(x, ...)
 \item{...}{Any additional arguments available for \link[readr]{write_csv}.}
 }
 \value{
-Data object opened in a preferrable spreadsheet application window.
+Data object opened in a preferable spreadsheet application window.
 }
 \description{
-You can use this function for loading any data.frame, data_frame, tbl_df, matrix, vector objects into your system-default spreadsheet software (e.g., Excel). This function has been inspired by \link[BrailleR]{DataViewer} and has implemented Hadley Wickham's \link[readr]{write_csv} instead of the default \link[utils]{write.csv} for a better performance.
+You can use this function for loading any data.frame, data_frame, tbl_df, matrix, vector objects into your system-default spreadsheet software (e.g., Excel). This function has been inspired by \code{\link[BrailleR]{DataViewer}} and has implemented Hadley Wickham's \code{\link[readr]{write_csv}} instead of the default \code{\link[utils]{write.csv}} for a better performance.
 }
 \details{
 view

@@ -28,6 +28,7 @@
 #'}
 
 #' @author JooYoung Seo, \email{jooyoung@psu.edu}
+#' @author Soyoung Choi, \email{sxc940@psu.edu}
 
 # Function starts:
 view <- 

@@ -17,7 +17,7 @@
 
 #' @examples
 
-#' \donttest{
+#' if(interactive()) {
 #' library(ezviewr)
 #' data(airquality)
 #' str(airquality)
@@ -25,7 +25,7 @@
 #' ## View your data object in your spreadsheet software:
 #' view(airquality)
 #' # Then, when necessary, you can modify the opened data in the spreadsheet and save it as a new data.
-#'}
+#' }
 
 #' @author JooYoung Seo, \email{jooyoung@psu.edu}
 #' @author Soyoung Choi, \email{sxc940@psu.edu}

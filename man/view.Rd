@@ -24,7 +24,7 @@ view
 See example below.
 }
 \examples{
-\donttest{
+if(interactive()) {
 library(ezviewr)
 data(airquality)
 str(airquality)

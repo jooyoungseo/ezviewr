@@ -14,7 +14,8 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     readr,
-    stringr
+    stringr,
+    tibble
 RoxygenNote: 6.1.0.9000
 Suggests: 
     knitr,

@@ -37,7 +37,7 @@ function(x, ...) {
       # only for interactive sessions
   if (interactive()) {
     tmp <- tempfile(fileext = ".csv")
-    readr::write_csv(x, tmp, ...)
+    readr::write_csv(tibble::tibble(x), tmp, ...)
     utils::browseURL(tmp)
 
     Sys.sleep(5)

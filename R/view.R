@@ -36,8 +36,12 @@ function(x, ...) {
 
       # only for interactive sessions
   if (interactive()) {
+    if(is.matrix(x)) {
+      x <- data.frame(x)
+    }
+
     tmp <- tempfile(fileext = ".csv")
-    readr::write_csv(data.frame(x), tmp, ...)
+    readr::write_csv(x, tmp, ...)
     utils::browseURL(tmp)
 
     Sys.sleep(5)

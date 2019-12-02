@@ -19,10 +19,5 @@ Useful links:
 \author{
 \strong{Maintainer}: JooYoung Seo \email{jooyoung@psu.edu}
 
-Authors:
-\itemize{
-  \item Soyoung Choi \email{sxc940@psu.edu}
-}
-
 }
 \keyword{internal}

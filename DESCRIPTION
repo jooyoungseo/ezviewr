@@ -1,10 +1,9 @@
 Package: ezviewr
 Title: View Tidy Data in Preferable Spreadsheet
 Version: 0.1.0
-Author: JooYoung Seo [aut, cre], Soyoung Choi [aut]
+Author: JooYoung Seo [aut, cre]
 Maintainer: JooYoung Seo <jooyoung@psu.edu>
-Authors@R: c(person("JooYoung", "Seo", role=c("aut", "cre"), email="jooyoung@psu.edu"),
-    person("Soyoung", "Choi", role = "aut", email = "sxc940@psu.edu"))
+Authors@R: c(person("JooYoung", "Seo", role=c("aut", "cre"), email="jooyoung@psu.edu"))
 Description: Timely load your tidy-formatted data from R into a preferable spreadsheet application window.
 License: GPL-3
 VignetteBuilder: knitr
@@ -20,4 +19,4 @@ Suggests:
     rmarkdown,
     testthat,
     covr
-RoxygenNote: 6.1.1.9000
+RoxygenNote: 7.0.1
